@@ -1,14 +1,30 @@
-const express = require('express');
-
-//calling express
+const express = require('express'); 
 const app = express();
+const cors = require('cors')
+const port = process.env.PORT || 5000;
 
-app.get('/', (req, res)=> {
-    res.json({ message: 'hello server running' });
+// const chef = require('./Data/chef.json');
+const chefObj = require('./Data/chef.json');
+const chef = Object.values(chefObj);
+
+
+app.use(cors());
+app.use(express.json())
+
+app.get('/', (req, res) => {
+    res.send('Chef api is running')
 });
-
-
-//using app
-app.listen(5000, () => {
-    console.log('server is running on port 5000');
+//
+app.get('/chef', (req, res) => {
+    res.send(chef);
 })
+
+app.get('/chef/:id', (req, res) =>{
+    const id = req.params.id;
+    const selectedChef = chef.filter(n => n.id_ === id);
+    res.send(selectedChef)
+})
+
+app.listen(port, () => {
+    console.log(`Chef API is running on port: ${port}`);
+});
