@@ -3,7 +3,6 @@ const app = express();
 const cors = require('cors')
 const port = process.env.PORT || 5000;
 
-// const chef = require('./Data/chef.json');
 const chefObj = require('./Data/chef.json');
 const chef = Object.values(chefObj);
 
