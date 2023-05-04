@@ -1,53 +1,53 @@
 [
     {
       "id_": "1",
-      "name": "Jimmy Dane",
+      "name": "Meet Chef Ali",
       "experience": "10",
       "number_of_recipes": "3",
       "total_like": 488,
-      "chef_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-      "bio": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2.",
+      "chef_img": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "bio": "a passionate and talented chef specializing in Turkish cuisine. With over 15 years of experience in the culinary industry Chef Ali has honed his skills in creating flavorful and authentic Turkish dishes Born and raised in Istanbul Turkey Chef Ali developed an early passion for cooking by watching his mother and grandmother prepare traditional Turkish dishes. He went on to attend culinary school where he learned the art of blending spices creating delicious marinades and cooking with the freshest ingredients",
       "recipes": [
         {
           "id": "1",
-          "recipe_name": "Recipe 1",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Turkish Grilled Chicken (Tavuk Şiş)",
+          "recipe_img": "https://images.unsplash.com/photo-1508615263227-c5d58c1e5821?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "1 lb. boneless, skinless chicken breast",
+            "Ingredient_2": "1/4 cup olive oil",
+            "Ingredient_3": "1 tablespoon tomato paste",
+            "Ingredient_4": "1 tablespoon paprika",
+            "Ingredient_5": "2 tablespoons lemon juice"
           },
           "cooking_style": "Style 1",
-          "ratting": 4.2,
+          "ratting": 4.5,
           "favorite": false
         },
         {
           "id": "2",
-          "recipe_name": "Recipe 2",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Turkish Stuffed Eggplant (Karnıyarık)",
+          "recipe_img": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 2",
-          "ratting": 4.6,
+          "ratting": 4.2,
           "favorite": false
         },
         {
           "id": "3",
-          "recipe_name": "Recipe 3",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Turkish Lentil Soup (Mercimek Çorbası)",
+          "recipe_img": "https://images.unsplash.com/photo-1605034997426-399051e3f7ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "1 cup red lentils, rinsed and drained",
+            "Ingredient_2": "1 onion, chopped",
+            "Ingredient_3": "2 garlic cloves, minced",
+            "Ingredient_4": "2 tablespoons tomato paste",
+            "Ingredient_5": "4 cups vegetable broth"
           },
           "cooking_style": "Style 3",
           "ratting": 4.8,
@@ -58,23 +58,23 @@
 
     {
       "id_": "2",
-      "name": "Jimmy Dane",
-      "experience": "10",
+      "name": "Nusret Gökçe (also known as Salt Bae)",
+      "experience": "20",
       "number_of_recipes": "3",
-      "total_like": 488,
-      "chef_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
-      "bio": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2.",
+      "total_like": 50000,
+      "chef_img": "https://cdn.vox-cdn.com/thumbor/PG0SIurhalEDSmZKPWuXZj9YLnc=/0x0:1200x900/920x613/filters:focal(590x160:782x352):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/58624117/NusrEtRestaurant_SaltBae_NusretGo_kc_e_SteakSalting_0925.0.0.jpg",
+      "bio": "a passionate and talented chef specializing in Turkish cuisine. With over 15 years of experience in the culinary industry Chef Ali has honed his skills in creating flavorful and authentic Turkish dishes Born and raised in Istanbul Turkey Chef Ali developed an early passion for cooking by watching his mother and grandmother prepare traditional Turkish dishes. He went on to attend culinary school where he learned the art of blending spices creating delicious marinades and cooking with the freshest ingredients",
       "recipes": [
         {
           "id": "1",
-          "recipe_name": "Recipe 1",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Imam bayildi (stuffed eggplant dish)",
+          "recipe_img": "https://images.unsplash.com/photo-1668507740203-0654d38b6201?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 1",
           "ratting": 4.2,
@@ -82,14 +82,14 @@
         },
         {
           "id": "2",
-          "recipe_name": "Recipe 2",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Ayran (yogurt drink)",
+          "recipe_img": "https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 2",
           "ratting": 4.6,
@@ -97,14 +97,14 @@
         },
         {
           "id": "3",
-          "recipe_name": "Recipe 3",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Tavuk göğsü (Turkish milk pudding with chicken breast)",
+          "recipe_img": "https://images.unsplash.com/photo-1559058789-672da06263d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 3",
           "ratting": 4.8,
@@ -115,23 +115,23 @@
 
     {
       "id_": "3",
-      "name": "Jimmy Dane",
+      "name": "Maksut Askar",
       "experience": "10",
       "number_of_recipes": "3",
       "total_like": 488,
-      "chef_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "chef_img": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "bio": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2.",
       "recipes": [
         {
           "id": "1",
-          "recipe_name": "Recipe 1",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Manti (Turkish dumplings filled with ground beef or lamb)",
+          "recipe_img": "https://images.unsplash.com/photo-1560717845-968823efbee1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 1",
           "ratting": 4.2,
@@ -139,14 +139,14 @@
         },
         {
           "id": "2",
-          "recipe_name": "Recipe 2",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Revani (Turkish semolina cake with syrup)",
+          "recipe_img": "https://images.unsplash.com/photo-1587606381492-7586d66a04a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 2",
           "ratting": 4.6,
@@ -154,14 +154,14 @@
         },
         {
           "id": "3",
-          "recipe_name": "Recipe 3",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Etli yaprak sarma (stuffed grape leaves with ground meat)",
+          "recipe_img": "https://images.unsplash.com/photo-1460306855393-0410f61241c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 3",
           "ratting": 4.8,
@@ -172,23 +172,23 @@
 
     {
       "id_": "4",
-      "name": "Jimmy Dane",
+      "name": "Esra Muslu",
       "experience": "10",
       "number_of_recipes": "3",
       "total_like": 488,
-      "chef_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "chef_img": "https://images.unsplash.com/photo-1611787111706-6869a8c478da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
       "bio": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2.",
       "recipes": [
         {
           "id": "1",
-          "recipe_name": "Recipe 1",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Çorba (Turkish soup, such as lentil soup or chicken soup)",
+          "recipe_img": "https://images.unsplash.com/photo-1432139509613-5c4255815697?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 1",
           "ratting": 4.2,
@@ -196,14 +196,14 @@
         },
         {
           "id": "2",
-          "recipe_name": "Recipe 2",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Revani (Turkish semolina cake with syrup)",
+          "recipe_img": "https://images.unsplash.com/photo-1508615263227-c5d58c1e5821?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 2",
           "ratting": 4.6,
@@ -211,14 +211,14 @@
         },
         {
           "id": "3",
-          "recipe_name": "Recipe 3",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Turkish coffee (strong coffee served in a small cup)",
+          "recipe_img": "https://images.unsplash.com/photo-1561626423-a51b45aef0a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 3",
           "ratting": 4.8,
@@ -229,23 +229,23 @@
 
     {
       "id_": "5",
-      "name": "Jimmy Dane",
+      "name": "Kemal Demirasal",
       "experience": "10",
       "number_of_recipes": "3",
       "total_like": 488,
-      "chef_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "chef_img": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
       "bio": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2.",
       "recipes": [
         {
           "id": "1",
-          "recipe_name": "Recipe 1",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Tavuk göğsü (Turkish milk pudding with chicken breast)",
+          "recipe_img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 1",
           "ratting": 4.2,
@@ -253,14 +253,14 @@
         },
         {
           "id": "2",
-          "recipe_name": "Recipe 2",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Kısır (Turkish bulgur salad with vegetables and herbs)",
+          "recipe_img": "https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "4 medium eggplants",
+            "Ingredient_2": "1/2 cup olive oil",
+            "Ingredient_3": "1 onion, chopped",
+            "Ingredient_4": "3 garlic cloves, minced",
+            "Ingredient_5": "1 green bell pepper, chopped"
           },
           "cooking_style": "Style 2",
           "ratting": 4.6,
@@ -268,14 +268,14 @@
         },
         {
           "id": "3",
-          "recipe_name": "Recipe 3",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Turkish Delight (sweet confection made with starch and sugar)",
+          "recipe_img": "https://images.unsplash.com/photo-1620167790054-de54f34308bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "1/4 cup breadcrumbs",
+            "Ingredient_2": "1/4 cup chopped parsley",
+            "Ingredient_3": "1/2 cup olive oil",
+            "Ingredient_4": "1 red bell pepper, chopped",
+            "Ingredient_5": "1 teaspoon cumin"
           },
           "cooking_style": "Style 3",
           "ratting": 4.8,
@@ -286,23 +286,23 @@
 
     {
       "id_": "6",
-      "name": "Jimmy Dane",
+      "name": "Didem Şenol Tiryakioğlu",
       "experience": "10",
       "number_of_recipes": "3",
       "total_like": 488,
-      "chef_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "chef_img": "https://images.unsplash.com/photo-1567994132067-402de7698daa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       "bio": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2.",
       "recipes": [
         {
           "id": "1",
-          "recipe_name": "Recipe 1",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Imam bayildi (stuffed eggplant dish)",
+          "recipe_img": "https://images.unsplash.com/photo-1633321702518-7feccafb94d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "1/4 cup chopped parsley",
+            "Ingredient_2": "1/2 teaspoon black pepper",
+            "Ingredient_3": "1 tablespoon tomato paste",
+            "Ingredient_4": "1 lemon, cut into wedges",
+            "Ingredient_5": "1 cup red lentils, rinsed and drained"
           },
           "cooking_style": "Style 1",
           "ratting": 4.2,
@@ -310,14 +310,14 @@
         },
         {
           "id": "2",
-          "recipe_name": "Recipe 2",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Turkish Bulgur Pilaf (Bulgur Pilavı)",
+          "recipe_img": "https://images.unsplash.com/photo-1583060095186-852adde6b819?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "1/2 teaspoon black pepper",
+            "Ingredient_2": "1/2 teaspoon black pepper",
+            "Ingredient_3": "1 tablespoon tomato paste",
+            "Ingredient_4": "1/2 cup chopped fresh parsley",
+            "Ingredient_5": "1 cup long-grain rice, rinsed and drained"
           },
           "cooking_style": "Style 2",
           "ratting": 4.6,
@@ -325,17 +325,17 @@
         },
         {
           "id": "3",
-          "recipe_name": "Recipe 3",
-          "recipe_img": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+          "recipe_name": "Turkish Stuffed Grape Leaves (Yaprak Sarma)",
+          "recipe_img": "https://images.unsplash.com/photo-1581299893528-b2d0a61b9d48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
           "recipe_ingredients": {
-            "Ingredient_1": "Ingredient 1",
-            "Ingredient_2": "Ingredient 2",
-            "Ingredient_3": "Ingredient 3",
-            "Ingredient_4": "Ingredient 4",
-            "Ingredient_5": "Ingredient 5"
+            "Ingredient_1": "1 tablespoon tomato paste",
+            "Ingredient_2": "1/4 cup chopped fresh mint",
+            "Ingredient_3": "1/2 cup chopped fresh parsley",
+            "Ingredient_4": "1 cup long-grain rice, rinsed and drained",
+            "Ingredient_5": "1 jar of grape leaves (about 60-70 leaves)"
           },
           "cooking_style": "Style 3",
-          "ratting": 4.8,
+          "ratting": 4.2,
           "favorite": false
         }
       ]
